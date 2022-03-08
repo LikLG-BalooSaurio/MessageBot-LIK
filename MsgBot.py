@@ -1,6 +1,4 @@
-from email.policy import default
-
-from dhooks import Webhook
+from dhooks_lite import Webhook
 
 from colorama import Fore
 
@@ -20,6 +18,8 @@ print(Fore.RED + """
                                                     ░█▀▀█ █──█ 　 ░█─── ▀█▀ ░█─▄▀ 
                                                     ░█▀▀▄ █▄▄█ 　 ░█─── ░█─ ░█▀▄─ 
                                                     ░█▄▄█ ▄▄▄█ 　 ░█▄▄█ ▄█▄ ░█─░█
+                                                    
+                                                    
 """)
 
 
@@ -27,6 +27,6 @@ print(Fore.RED + """
 hook.username = input(Fore.CYAN + "1. Introduce tu nombre: ")
 
 
-hook.send(input(Fore.LIGHTCYAN_EX + "2. Introduce el mensaje: "))
+hook.execute(input(Fore.LIGHTCYAN_EX + "2. Introduce el mensaje: "))
 
 print(Fore.LIGHTWHITE_EX + "Listo! Mensaje enviado... Revisa el discord!")
