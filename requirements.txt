@@ -1,2 +1,2 @@
-dhooks
+dhooks_lite
 colorama
