@@ -1,9 +1,12 @@
 # Message Bot LIK LEGION
-Hola! Este script de python puede enviar mensajes personalizados a el server de LIK LEGION a partir de una Webhook
+Hola! Este script de python puede enviar mensajes personalizados a tu servidor partir de una Webhook
 
 
 
 ## Instrucciones 
+
+
+### Instalacion 
 
 
 ### Termux
@@ -23,3 +26,6 @@ Hola! Este script de python puede enviar mensajes personalizados a el server de 
     cd MessageBot-LIK
     python -m pip install -r requirements.txt
     python MsgBot.py
+    
+### Uso
+Poner la webhook de tu servidor en 'WEBHOOK' sin borrar los  ' '
