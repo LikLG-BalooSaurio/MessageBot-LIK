@@ -1,5 +1,10 @@
 # Message Bot LIK LEGION
 Hola! Este script de python puede enviar mensajes personalizados a tu servidor partir de una Webhook
+Poniendo tu nombre y el mensaje, puedes mandar algo parecido a esto
+
+**LikLG >> Hola a todos!**
+
+Censurando links http/https
 
 
 
