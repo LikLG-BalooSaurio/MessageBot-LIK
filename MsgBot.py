@@ -3,7 +3,7 @@ import re
 from colorama import Fore
 
 
-hook = Webhook("https://discord.com/api/webhooks/954460003618668586/QDbQw0x8ASww16gwczrxup1p2B261lQZW57s-EXwEpESFsooxMt5XYyDywKsfvJU84cu")
+hook = Webhook("WEBHOOK")
 
 
 print(Fore.CYAN + """
