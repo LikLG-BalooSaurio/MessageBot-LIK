@@ -28,4 +28,4 @@ Hola! Este script de python puede enviar mensajes personalizados a tu servidor p
     python MsgBot.py
     
 ### Uso
-Poner la webhook de tu servidor en 'WEBHOOK' sin borrar los  ' ' en la línea **6**
+Poner la webhook de tu servidor en "WEBHOOK" sin borrar las comillas en la línea **6**
